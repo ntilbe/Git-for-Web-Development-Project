@@ -100,6 +100,7 @@ Stretch Research
 
 	1.What is a Merge Conflict and how do you resolve it?
 	  A merge conflict occurs when there's been a change in the same file, in the same line on the two branches you're trying to merge. To resolve, remove the conflicting code you don't want and delete the symbols (head, equal signs, and origin/master), and then save the file.
+	
 	2.Git Pull - Runs two commands in one. Initially, it runs a git fetch and then a git merge. Not as "safe" as git fetch because this will download the changes made to your current branch, updating the code within your repo.
 	  Git Rebase - Will show when changes were introduced and make it more linear.
 	  Git Merge - Combines two or more branches together.
@@ -109,5 +110,6 @@ Stretch Research
 	  Git Clean - Remove untracked files from the working tree, a directory (and its files and subdirectories) on your file system that is associated with a repository.
 
 	4.Set up a Graphical User Interface (GUI) Git console
-
+	I have GitHub Desktop set up and have used that previously with Unreal Engine, also downloaded Tower to check that out since I noticed it is quite popular.
+	
 	5.Setup SSH keys with Github so you don't need to input username/password each time you push.
