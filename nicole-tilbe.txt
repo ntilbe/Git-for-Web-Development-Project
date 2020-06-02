@@ -4,7 +4,7 @@ CSS + HTML Practice: https://codepen.io/ntilbe/pen/xxZKzoY?editors=1100
     1. What is Semantic HTML? 
 	The process of providing meaning to your content so that it's easier for people (and computers) to read. We use the word Semantic to describe tags with meaning.
     2. What is HTML used for? 
-	HTML is used to create web pages. Similar to a foundation, while CSS is the style.
+	HTML is used for the structure of our site. Similar to a foundation, while CSS is the style.
     3. What is an attribute and where do we put it? 
 	Attributes define additional characteristics or properties of the element such as width and height of an image. They are always specified in the opening tag and usually consists of name/value pairs like name="value".
     4. What is the h1 tag used for? How many times should I use it on a page?
