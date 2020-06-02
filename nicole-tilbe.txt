@@ -1,3 +1,6 @@
+
+CSS + HTML Practice: https://codepen.io/ntilbe/pen/xxZKzoY?editors=1100    
+
     1. What is Semantic HTML? 
 	The process of providing meaning to your content so that it's easier for people (and computers) to read. We use the word Semantic to describe tags with meaning.
     2. What is HTML used for? 
